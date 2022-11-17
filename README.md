@@ -48,8 +48,8 @@ Two options:
    
     ```
 
-```
+
 Abstract = "As most machine learning models are trained and evaluated on datasets that are independent and identically distributed (i.i.d), their perfor-
 mance falters when faced with samples that are adversarial or statistically out-of-distributed (OOD). Thus, in this project, we work towards robust out-of-distribution generalization without having access to OOD samples. Specifically, we propose a threefold approach for training deep neural networks. To begin with, we identify samples that are easy to learn, mislabeled, and hard to learn using the model’s training dynamics. Then we proffer a mixup based data augmentation technique that generates effective synthetic samples intelligently combining easy and difficult samples that contribute towards improving model robustness and generalization capabilities. Lastly, we plan on adopting a non-trivial sampling scheme that makes the learning procedure more efficient. In this report, we begin by experimenting with detecting and calibrating large language models for out-of-distribution detection by reproducing experiments of Arora et al. (2021).",
-}
-```
+
+
