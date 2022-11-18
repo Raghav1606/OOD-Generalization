@@ -1,5 +1,7 @@
 ## Towards Detecting, Augmenting, and Sampling, Efficient Datapoints for Robust Out-of-Distribution Generalization
 
+Script with the steps to run can be found in `run_details.pdf` in this reporsitory.
+
 Paper Reference: 
 
 - Arxiv: https://arxiv.org/abs/2109.06827
