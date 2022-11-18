@@ -19,7 +19,6 @@ A differet dataset pair can be used by updating the approriate `dataset_name` or
 
 
 ### Training the Calibration Model (RoBERTa)
-Two options:
 1. Using HF Datasets -
    ```
    id_data="sst2"
@@ -28,7 +27,6 @@ Two options:
 
 
 ### Finding Maximum Softmax Probability (MSP)
-Two options:
 1. Using HF Datasets -
    ```
    id_data="sst2"
